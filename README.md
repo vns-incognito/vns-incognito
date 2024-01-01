@@ -12,7 +12,7 @@ Hello! I'm VANSH ARORA, a passionate tech enthusiast. I have been working with t
 
 ## 🌱 Currently Learning
 
-I'm currently focused on learning Cloud computing and DSA, and I'm always eager to expand my skill set.
+I am presently dedicated to acquiring expertise in Cloud Computing, DevOps, and Data Structures and Algorithms (DSA) to enhance my problem-solving skills. I am consistently enthusiastic about broadening my skill set.
 
 ## 📫 Connect with Me
 

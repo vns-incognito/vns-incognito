@@ -7,7 +7,9 @@ Hello! I'm VANSH ARORA, a passionate tech enthusiast. I have been working with t
 ## 🔧 Skills
 • **Technologies, Frameworks & Libraries**: AI-ML, IOT, Cloud(AWS), Firebase, Django, MySQL, (UI/UX)Figma,
   Tensor flow, Pandas, Scikit learn, Matplotlib Selenium, Scrapy, Flask.
+  
 • **Programming Languages**: Python, C, C++, HTML, CSS, Javascript.
+
 • **Version Control**: Git
 
 ## 🌱 Currently Learning
